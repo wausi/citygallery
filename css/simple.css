@@ -1,0 +1,72 @@
+*{
+	padding: 30px;
+	margin: 0;
+}
+header{
+	text-align: center;
+	clear: both;
+	background-color: #000000;
+	color: #ffffff;
+	font-size: 26px;
+	height: 100px;
+}
+.members{
+	float: right;
+	font-size: 17px;
+	padding: 0 10px;
+	color: white;
+	
+}
+header p{
+	font-size: 50px;
+	padding: 0;
+}
+
+aside{
+	float: left;
+	background-color: #eeeeee;
+	width: 100px;
+	height: 599px;
+	clear: both;
+	text-align: left;
+	padding: 10px;
+	line-height: 50px;
+	font-size: 25px;
+}
+nav{
+	float: right;
+	width: 200px;
+	height: 550px;
+	background-color: #000000;
+	color: #ffffff;
+	line-height: 50px;
+	font-size: 25px;
+}
+article{
+	
+	width: 700px;
+	float: left;
+}
+article h3{
+	font-size: 30px;
+	font-family: "Segoe UI";
+}
+article p{
+	font-family: verdana;
+	clear: none;
+}
+article img{
+	width: 150px;
+	height: 150px;
+}
+footer{
+	clear: both;
+	background-color: #000000;
+	color: #ffffff;
+	height: 30px;
+	padding: 0;
+}
+footer p{
+	padding: 0;
+	text-align: center;
+}
